@@ -270,5 +270,5 @@ the 'nano-sidebar-properties variable."
     (setq frame-background-mode
           (frame-parameter parent 'background-mode))))
 
-;;; nano-sidebar.el ends here
 (provide 'nano-sidebar)
+;;; nano-sidebar.el ends here

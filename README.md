@@ -14,7 +14,7 @@ Install with [straight.el](https://github.com/raxod502/straight.el):
 ... or install with [`quelpa`](https://github.com/quelpa/quelpa):
 
 ```emacs-lisp
-(use-package nano-theme
+(use-package nano-sidebar
   :ensure nil
   :defer t
   :quelpa (nano-sidebar
