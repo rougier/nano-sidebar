@@ -53,6 +53,10 @@ and then provide a specifi configuration:
 
 ### Screenshots
 
-![](images/nano-sidebar-default.png)
+This screenshot shows a sidebar displaying a custom ibuffer. See [nano-sidebar-ibuffer.el](nano-sidebar-ibuffer.el)
+
+![](images/nano-sidebar-ibuffer.png)
+
+This screenshot shows a sidebar displaying a mu4e dashboard. See [mu4e-dashboard](https://github.com/rougier/mu4e-dashboard)
 
 ![](images/nano-sidebar-mu4e.png)
