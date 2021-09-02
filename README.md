@@ -35,11 +35,10 @@ It is possible to use the sidebar without any configuration
 In such case, a sidebar with default values is created and the default
 init function is called.
 
-You can also configure sidbars individually by first naming your frame
-and then provide a specifi configuration:
+You can also configure sidebars individually by first naming your frame
+and then provide a specific configuration:
 
-```emacs-list
-
+```emacs-lisp
 (defun nano-sidebar-mu4e-init (frame sidebar)
   (select-frame sidebar)
   (do-some-stuff...))
